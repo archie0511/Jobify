@@ -1,4 +1,3 @@
-# Jobify
 
 # Job Tracker
 
