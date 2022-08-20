@@ -12,3 +12,6 @@ It is very helpful for students during their placement season.
 
 ![App Screenshot](https://user-images.githubusercontent.com/72190252/181801708-1b7f69b7-753f-45ba-9acb-a3ff7c79da34.png)
 
+## Deployment
+https://www.jobify.live/landing
+
